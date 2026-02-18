@@ -4,6 +4,7 @@ import urandom
 import math
 
 # Brain should be defined by default
+#Start of Code
 brain=Brain()
 
 # Robot configuration code
